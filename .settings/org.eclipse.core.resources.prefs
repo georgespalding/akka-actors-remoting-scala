@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/scala/se/op/example/akka/calculator/CalculatorApplication.scala=UTF-8
+encoding//src/main/scala/se/op/example/akka/calculator/CreationApplication.scala=UTF-8
+encoding//src/main/scala/se/op/example/akka/calculator/LookupApplication.scala=UTF-8
+encoding//src/main/scala/se/op/example/akka/calculator/MathOp.scala=UTF-8
+encoding/<project>=UTF-8
