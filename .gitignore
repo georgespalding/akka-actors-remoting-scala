@@ -1,5 +1,5 @@
 .cache
 *.class
-/target/**
-/project/**
-/bin/**
+/bin
+/target
+
