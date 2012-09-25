@@ -1,6 +1,6 @@
 import sbt._
 import sbt.Keys._
-
+ 
 object AkkaActorsRemotingScalaBuild extends Build {
 
   lazy val akkaActorsRemotingScala = Project(
